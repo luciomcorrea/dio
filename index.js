@@ -20,5 +20,5 @@ calcNivel()
     	    }else {
                 nivel = "Imortal"
     	    }
-        console.log("O Herói tem saldo de " + saldoVitorias + " e está no nível de " + nivel + "!")
+        console.log("O Herói tem saldo de " + saldoVitorias + " e está no nível " + nivel + "!")
     }
